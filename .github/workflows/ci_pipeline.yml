@@ -1,4 +1,4 @@
-name: SAP Data Quality CI Pipeline
+name: Data Quality CI Pipeline
 
 # Trigger: Run this pipeline on every push to the repository
 on: [push]
