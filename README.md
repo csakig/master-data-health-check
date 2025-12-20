@@ -1,3 +1,5 @@
+![SAP Data Quality CI Pipeline](https://github.com/csakig/master-data-health-check/actions/workflows/ci_pipeline.yml/badge.svg)
+
 # 🔍 Master Data Health Check Tool
 
 An automated **Data Quality Validation System** built with Python and Streamlit. Designed to streamline data migration processes (e.g., SAP S/4HANA migrations) by identifying critical errors in master data files before loading.
