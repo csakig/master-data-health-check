@@ -1,4 +1,4 @@
-![SAP Data Quality CI Pipeline](https://github.com/csakig/master-data-health-check/actions/workflows/ci_pipeline.yml/badge.svg)
+![Data Quality CI Pipeline](https://github.com/csakig/master-data-health-check/actions/workflows/ci_pipeline.yml/badge.svg)
 
 # 🔍 Master Data Health Check Tool
 
